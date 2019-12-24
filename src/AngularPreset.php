@@ -43,7 +43,6 @@ class AngularPreset extends Preset
                 '@angular/compiler' => '^8.2.0',
                 '@angular/core' => '^8.2.0',
                 '@angular/forms' => '^8.2.0',
-                '@angular/http' => '^8.2.0',
                 '@angular/platform-browser' => '^8.2.0',
                 '@angular/platform-browser-dynamic' => '^8.2.0',
                 '@angular/router' => '^8.2.0',
