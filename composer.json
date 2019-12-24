@@ -1,0 +1,21 @@
+{
+    "name": "resonantic/laravel-angular-preset",
+    "description": "Angular Frontend Preset For Laravel Framework 6.0 and Up",
+    "keywords": ["laravel", "preset", "angular"],
+    "license": "MIT",
+    "require": {
+        "laravel/framework": "^6.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Resonantic\\AngularPreset\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Resonantic\\AngularPreset\\AngularPresetServiceProvider"
+            ]
+        }
+    }
+}
