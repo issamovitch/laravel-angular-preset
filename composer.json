@@ -1,6 +1,6 @@
 {
-    "name": "resonantic/laravel-angular-preset",
-    "description": "Angular Frontend Preset For Laravel Framework 6.0 and Up",
+    "name": "issamovitch/laravel-angular-preset",
+    "description": "Angular Frontend Preset For Laravel Framework 7.2 and Up",
     "keywords": ["laravel", "preset", "angular"],
     "license": "MIT",
     "require": {
