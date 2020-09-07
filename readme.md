@@ -7,7 +7,7 @@ A simple and easy Angular 8 scaffolding so you can quickly get started creating 
 Add the package in your composer.json by executing the command.
 
 ```
-composer require resonantic/laravel-angular-preset
+composer require issamovitch/laravel-angular-preset
 ```
 
 ## Usage
